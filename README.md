@@ -10,16 +10,12 @@
 
 ---
 
-<img align="right" height="160" src="COLE_AQUI_O_LINK_DO_GIF" alt="gif programando"/>
-
 ## 👩‍💻 Sobre mim
 
 🎓 Estudante e desenvolvedora em formação  
 💻 Tenho experiência com C#, HTML, CSS e JavaScript  
 🎨 Também utilizo Figma e Miro para prototipação e organização  
 🚀 Sempre buscando aprender, evoluir e criar projetos novos
-
-<br><br>
 
 ---
 
