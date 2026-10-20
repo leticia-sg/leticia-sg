@@ -10,15 +10,6 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
-🎓 Estudante e desenvolvedora em formação  
-💻 Tenho experiência com C#, HTML, CSS e JavaScript  
-🎨 Também utilizo Figma e Miro para prototipação e organização  
-🚀 Sempre buscando aprender, evoluir e criar projetos novos
-
----
-
 ## 🛠 Tech Stack
 
 <div align="left">
