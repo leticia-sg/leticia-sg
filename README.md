@@ -10,7 +10,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-PT%20%7C%20EN-1E3A8A?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Information%20Systems-0B1F3A?style=for-the-badge&logo=academia&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0B1F3A?style=for-the-badge&logo=shield&logoColor=white)
 
 </div>
 
