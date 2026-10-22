@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1E3A8A,100:2563EB&height=220&section=header&text=Let%C3%ADcia%20Soares&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Future%20Tech%20Professional&descAlignY=60&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1E3A8A,100:2563EB&height=220&section=header&text=Let%C3%ADcia%20Soares&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20PUC%20Minas&descAlignY=60&descSize=16"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Estudante+de+Ciberseguran%C3%A7a+%7C+Cybersecurity+Student;Aprendizado+cont%C3%ADnuo+em+tecnologia+e+seguran%C3%A7a;Building+a+strong+foundation+for+my+career"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%7C+PUC+Minas;Interesse+em+Ciberseguran%C3%A7a+e+Tecnologia;Building+my+career+in+tech+step+by+step"/>
 </a>
 
 <br>
 
 ![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-PT%20%7C%20EN-1E3A8A?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0B1F3A?style=for-the-badge&logo=shield&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Information%20Systems-0B1F3A?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 ## 👋 Quem eu sou | About me
 
-Sou **Letícia Soares**, estudante com foco em **Cibersegurança**, construindo minha base em tecnologia por meio de estudos práticos e evolução constante.
+Sou **Letícia Soares**, estudante de **Sistemas de Informação na PUC Minas**, com interesse em **Cibersegurança** e construção contínua de base técnica em tecnologia.
 
-I am **Letícia Soares**, a student focused on **Cybersecurity**, building my technical foundation through practical learning and continuous growth.
+I am **Letícia Soares**, an **Information Systems student at PUC Minas**, interested in **Cybersecurity** and continuously building a strong technical foundation.
 
-Atualmente, estou em fase de formação, desenvolvendo habilidades em redes, infraestrutura, lógica de programação e boas práticas de segurança da informação.
+Atualmente, desenvolvo habilidades em programação, lógica, desenvolvimento web e boas práticas de tecnologia, com o objetivo de atuar profissionalmente na área.
 
-I am currently in my learning stage, improving my skills in networking, infrastructure, programming logic, and information security best practices.
+I am currently developing skills in programming, logic, web development, and technology best practices, aiming to build my professional career in this field.
 
 <br>
 
@@ -32,9 +32,9 @@ I am currently in my learning stage, improving my skills in networking, infrastr
 
 <table>
   <tr>
-    <td width="33%" align="center">🛡️<br><b>Cibersegurança | Cybersecurity</b><br><sub>Base sólida em segurança, proteção de dados e resposta a incidentes</sub></td>
+    <td width="33%" align="center">🛡️<br><b>Interesse em Cibersegurança | Interest in Cybersecurity</b><br><sub>Aprendizado contínuo em segurança da informação e proteção de dados</sub></td>
     <td width="33%" align="center">💻<br><b>Desenvolvimento | Development</b><br><sub>Evoluindo em lógica de programação e construção de soluções web</sub></td>
-    <td width="33%" align="center">🌐<br><b>Redes e Infraestrutura | Networking & Infrastructure</b><br><sub>Aprendendo fundamentos para ambientes estáveis e seguros</sub></td>
+    <td width="33%" align="center">🚀<br><b>Evolução Profissional | Professional Growth</b><br><sub>Construindo uma base sólida para atuar no mercado de tecnologia</sub></td>
   </tr>
 </table>
 
@@ -42,9 +42,9 @@ I am currently in my learning stage, improving my skills in networking, infrastr
 
 ## 💼 Formação e Evolução | Education & Progress
 
-- 🎓 **Status Atual | Current Status:** Estudante 
-- 📘 **Foco Principal | Main Focus:** Cibersegurança
-- 🧠 **Objetivo | Goal:** Evoluir tecnicamente para atuar profissionalmente na área de tecnologia e segurança
+- 🎓 **Formação Acadêmica | Academic Background:** Sistemas de Informação — **PUC Minas**
+- 🛡️ **Interesse de Carreira | Career Interest:** Cibersegurança
+- 🧠 **Objetivo | Goal:** Evoluir tecnicamente para atuar profissionalmente em tecnologia
 - 🚀 **Desenvolvimento Contínuo | Continuous Development:** Estudo diário, prática e construção de portfólio técnico
 
 <br>
@@ -53,9 +53,9 @@ I am currently in my learning stage, improving my skills in networking, infrastr
 
 <div align="center">
 
-![Infra & Redes](https://img.shields.io/badge/Infraestrutura_%26_Redes-0B1F3A?style=for-the-badge&logo=cisco&logoColor=white)
-![Segurança](https://img.shields.io/badge/Cybersecurity-0B1F3A?style=for-the-badge&logo=cisco&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-2563EB?style=for-the-badge&logo=opslevel&logoColor=white)
+![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Cont%C3%ADnuo-2563EB?style=for-the-badge&logo=bookstack&logoColor=white)
+![Lógica de Programação](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-1E3A8A?style=for-the-badge&logo=codeforces&logoColor=white)
+![Prática](https://img.shields.io/badge/Pr%C3%A1tica-0B1F3A?style=for-the-badge&logo=verizon&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +81,7 @@ I am currently building new projects and will soon add highlights here to showca
   <tr>
     <td width="50%">
       <h3>📌 Em breve | Coming soon</h3>
-      <p>Projetos práticos de desenvolvimento e segurança da informação.</p>
+      <p>Projetos práticos de desenvolvimento e tecnologia.</p>
     </td>
     <td width="50%">
       <h3>🛠️ Em construção | In progress</h3>
